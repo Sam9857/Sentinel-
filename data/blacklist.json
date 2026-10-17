@@ -1,0 +1,460 @@
+{
+  "blocked_ips": [
+    {
+      "ip": "203.0.113.50",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-03-07T14:58:36.348143"
+    },
+    {
+      "ip": "203.0.113.9",
+      "reason": "Auto-blocked: score 80 | Anomaly detected",
+      "risk_score": 80,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:35:20.480650"
+    },
+    {
+      "ip": "45.33.32.18",
+      "reason": "Auto-blocked: score 96 | Brute Force",
+      "risk_score": 96,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:28.893470"
+    },
+    {
+      "ip": "45.33.32.17",
+      "reason": "Auto-blocked: score 98 | Brute Force",
+      "risk_score": 98,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:33.912475"
+    },
+    {
+      "ip": "203.0.113.6",
+      "reason": "Auto-blocked: score 100 | Brute Force, Path Traversal",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:43.944596"
+    },
+    {
+      "ip": "45.33.32.3",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:43.950050"
+    },
+    {
+      "ip": "198.51.100.6",
+      "reason": "Auto-blocked: score 82 | Brute Force",
+      "risk_score": 82,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:53.966639"
+    },
+    {
+      "ip": "10.0.0.54",
+      "reason": "Auto-blocked: score 87 | Brute Force",
+      "risk_score": 87,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:36:59.001827"
+    },
+    {
+      "ip": "203.0.113.14",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:04.039486"
+    },
+    {
+      "ip": "10.0.0.61",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:09.057844"
+    },
+    {
+      "ip": "203.0.113.5",
+      "reason": "Auto-blocked: score 70 | SQL Injection",
+      "risk_score": 70,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:14.101923"
+    },
+    {
+      "ip": "45.33.32.2",
+      "reason": "Auto-blocked: score 96 | Brute Force",
+      "risk_score": 96,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:19.129794"
+    },
+    {
+      "ip": "172.16.0.2",
+      "reason": "Auto-blocked: score 86 | Brute Force",
+      "risk_score": 86,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:19.180129"
+    },
+    {
+      "ip": "172.16.0.7",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:29.231302"
+    },
+    {
+      "ip": "10.0.0.51",
+      "reason": "Auto-blocked: score 94 | Brute Force",
+      "risk_score": 94,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:29.256568"
+    },
+    {
+      "ip": "45.33.32.8",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:39.319367"
+    },
+    {
+      "ip": "10.0.0.56",
+      "reason": "Auto-blocked: score 86 | Brute Force",
+      "risk_score": 86,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:49.413431"
+    },
+    {
+      "ip": "10.0.0.64",
+      "reason": "Auto-blocked: score 100 | Brute Force",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:49.468226"
+    },
+    {
+      "ip": "10.0.0.57",
+      "reason": "Auto-blocked: score 80 | Brute Force",
+      "risk_score": 80,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:37:54.510810"
+    },
+    {
+      "ip": "45.33.32.13",
+      "reason": "Auto-blocked: score 88 | Brute Force",
+      "risk_score": 88,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:09.642590"
+    },
+    {
+      "ip": "198.51.100.1",
+      "reason": "Auto-blocked: score 100 | Brute Force, Path Traversal",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:19.708037"
+    },
+    {
+      "ip": "203.0.113.4",
+      "reason": "Auto-blocked: score 91 | Brute Force",
+      "risk_score": 91,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:34.891549"
+    },
+    {
+      "ip": "45.33.32.5",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:45.019523"
+    },
+    {
+      "ip": "203.0.113.11",
+      "reason": "Auto-blocked: score 100 | Brute Force",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:45.037268"
+    },
+    {
+      "ip": "198.51.100.3",
+      "reason": "Auto-blocked: score 98 | Brute Force",
+      "risk_score": 98,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:50.077603"
+    },
+    {
+      "ip": "45.33.32.9",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:55.099724"
+    },
+    {
+      "ip": "45.33.32.11",
+      "reason": "Auto-blocked: score 79 | Brute Force",
+      "risk_score": 79,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:38:55.113410"
+    },
+    {
+      "ip": "45.33.32.15",
+      "reason": "Auto-blocked: score 95 | Brute Force",
+      "risk_score": 95,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:05.225905"
+    },
+    {
+      "ip": "203.0.113.3",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:10.323899"
+    },
+    {
+      "ip": "203.0.113.1",
+      "reason": "Auto-blocked: score 90 | Brute Force",
+      "risk_score": 90,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:30.616159"
+    },
+    {
+      "ip": "10.0.0.52",
+      "reason": "Auto-blocked: score 69 | SQL Injection",
+      "risk_score": 69,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:40.728170"
+    },
+    {
+      "ip": "198.51.100.2",
+      "reason": "Auto-blocked: score 88 | Brute Force",
+      "risk_score": 88,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:45.748442"
+    },
+    {
+      "ip": "45.33.32.10",
+      "reason": "Auto-blocked: score 73 | SQL Injection",
+      "risk_score": 73,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:39:55.850186"
+    },
+    {
+      "ip": "198.51.100.8",
+      "reason": "Auto-blocked: score 100 | Brute Force, Path Traversal",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:00.930968"
+    },
+    {
+      "ip": "203.0.113.8",
+      "reason": "Auto-blocked: score 96 | Brute Force",
+      "risk_score": 96,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:06.063239"
+    },
+    {
+      "ip": "10.0.0.63",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:06.082296"
+    },
+    {
+      "ip": "198.51.100.9",
+      "reason": "Auto-blocked: score 67 | Path Traversal",
+      "risk_score": 67,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:16.207480"
+    },
+    {
+      "ip": "172.16.0.3",
+      "reason": "Auto-blocked: score 72 | Path Traversal",
+      "risk_score": 72,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:36.502663"
+    },
+    {
+      "ip": "45.33.32.16",
+      "reason": "Auto-blocked: score 90 | Brute Force",
+      "risk_score": 90,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:41.679137"
+    },
+    {
+      "ip": "172.16.0.8",
+      "reason": "Auto-blocked: score 87 | Brute Force",
+      "risk_score": 87,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:40:46.739090"
+    },
+    {
+      "ip": "10.0.0.60",
+      "reason": "Auto-blocked: score 82 | Brute Force",
+      "risk_score": 82,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:41:12.318998"
+    },
+    {
+      "ip": "172.16.0.4",
+      "reason": "Auto-blocked: score 100 | Brute Force, Path Traversal",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:41:17.354396"
+    },
+    {
+      "ip": "45.33.32.1",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:41:17.413181"
+    },
+    {
+      "ip": "45.33.32.7",
+      "reason": "Auto-blocked: score 87 | Brute Force",
+      "risk_score": 87,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:41:32.650162"
+    },
+    {
+      "ip": "10.0.0.58",
+      "reason": "Auto-blocked: score 100 | Brute Force",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:41:42.826886"
+    },
+    {
+      "ip": "45.33.32.14",
+      "reason": "Auto-blocked: score 71 | Path Traversal",
+      "risk_score": 71,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:03.329589"
+    },
+    {
+      "ip": "45.33.32.4",
+      "reason": "Auto-blocked: score 98 | Brute Force",
+      "risk_score": 98,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:13.519488"
+    },
+    {
+      "ip": "203.0.113.10",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:13.577649"
+    },
+    {
+      "ip": "198.51.100.5",
+      "reason": "Auto-blocked: score 99 | Brute Force",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:28.858153"
+    },
+    {
+      "ip": "45.33.32.12",
+      "reason": "Auto-blocked: score 91 | Brute Force",
+      "risk_score": 91,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:33.928250"
+    },
+    {
+      "ip": "203.0.113.7",
+      "reason": "Auto-blocked: score 100 | Brute Force, SQL Injection",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:42:33.996388"
+    },
+    {
+      "ip": "198.51.100.7",
+      "reason": "Auto-blocked: score 100 | Brute Force",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:43:09.720115"
+    },
+    {
+      "ip": "203.0.113.13",
+      "reason": "Auto-blocked: score 94 | Brute Force",
+      "risk_score": 94,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:43:45.458592"
+    },
+    {
+      "ip": "172.16.0.6",
+      "reason": "Auto-blocked: score 100 | Brute Force",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:43:50.572042"
+    },
+    {
+      "ip": "10.0.0.50",
+      "reason": "Auto-blocked: score 84 | Brute Force",
+      "risk_score": 84,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:43:50.608824"
+    },
+    {
+      "ip": "10.0.0.59",
+      "reason": "Auto-blocked: score 98 | Brute Force",
+      "risk_score": 98,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:44:06.097943"
+    },
+    {
+      "ip": "10.0.0.55",
+      "reason": "Auto-blocked: score 85 | Brute Force",
+      "risk_score": 85,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:44:57.659336"
+    },
+    {
+      "ip": "45.33.32.6",
+      "reason": "Auto-blocked: score 80 | Brute Force",
+      "risk_score": 80,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:46:04.423876"
+    },
+    {
+      "ip": "10.0.0.62",
+      "reason": "Auto-blocked: score 100 | Brute Force, Path Traversal",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:48:40.545669"
+    },
+    {
+      "ip": "172.16.0.1",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:48:56.061076"
+    },
+    {
+      "ip": "172.16.0.9",
+      "reason": "Auto-blocked: score 100 | Brute Force, SQL Injection",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:49:43.156069"
+    },
+    {
+      "ip": "172.16.0.5",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:50:46.401524"
+    },
+    {
+      "ip": "203.0.113.12",
+      "reason": "Auto-blocked: score 99 | Brute Force, Path Traversal",
+      "risk_score": 99,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:51:59.738468"
+    },
+    {
+      "ip": "10.0.0.53",
+      "reason": "Auto-blocked: score 100 | Brute Force, SQL Injection",
+      "risk_score": 100,
+      "auto": true,
+      "blocked_at": "2026-10-14T14:52:15.491052"
+    },
+    {
+      "ip": "203.0.113.2",
+      "reason": "Auto-blocked: score 97 | Brute Force",
+      "risk_score": 97,
+      "auto": true,
+      "blocked_at": "2026-10-16T10:32:46.485426"
+    }
+  ],
+  "last_updated": "2026-10-16T10:32:46.485426"
+}

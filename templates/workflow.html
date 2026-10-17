@@ -1,0 +1,13 @@
+{% extends "base_soc.html" %}
+{% block title %}BitSentinel · How it works{% endblock %}
+{% block head %}<link rel="stylesheet" href="{{ url_for('static', filename='css/soc/workflow.css') }}" />{% endblock %}
+{% block content %}
+<main class="view" id="view">
+  <div class="view-inner">
+    <div class="page-head"><div><h1>How BitSentinel works</h1>
+      <p class="wf-intro">From a raw security event to an analyst's response. Select any stage to see the file and endpoint that implement it, or let the guided tour walk through each one.</p></div></div>
+    <div id="wf-host"></div>
+  </div>
+</main>
+{% endblock %}
+{% block scripts %}<script type="module" src="{{ url_for('static', filename='js/soc/workflow/workflow.js') }}"></script>{% endblock %}

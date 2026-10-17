@@ -1,0 +1,8 @@
+{% extends "base_soc.html" %}
+{% block title %}BitSentinel · Security operations{% endblock %}
+{% block content %}<main class="view" id="view" tabindex="-1" aria-live="polite"></main>{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='vendor/d3.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/topojson-client.min.js') }}"></script>
+<script type="module" src="{{ url_for('static', filename='js/soc/main.js') }}"></script>
+{% endblock %}
