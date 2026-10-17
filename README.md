@@ -1,4 +1,4 @@
-# 🛡️ ipwnedyou
+# 🛡️ BitSentinel
 ## AI-Based Cyber Threat Detection & Prevention System
 
 > *"We detect before you connect."*
